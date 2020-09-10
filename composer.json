@@ -29,7 +29,7 @@
     ],
     "extra": {
         "zf": {
-            "module": "ZfrCors"
+            "module": "LmcCors"
         }
     },
     "require": {
